@@ -3,7 +3,7 @@
 
 ### 创建Issue
 
-打开仓库链接：https://github.com/udacity/fend-issues-zh/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
+打开仓库链接：https://github.com/udacity/intro2car-cn_feedback/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
 
 
 
@@ -23,7 +23,7 @@
 
 你可以分配给的优达学城工作人员：
 
-> 前端开发课程经理：@Shiyu Yang
+> 前端开发课程经理：@yangshiyu89
 > 前端开发社群负责人：@UdacityCelia
 >
 > 本地化负责人：@sylviasun916
